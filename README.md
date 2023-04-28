@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  Tip_Calculator             |  Tip_Calculator which calculates the total amount of a meal purchased with a fixed tip             | https://github.com/Rucyaha/Tip_Calculator.git       |
+| 2 |  Mortgage_Calculator             |  Mortgage_Calculator calculates mortgage for the bank             | https://github.com/Rucyaha/Mortgage_Calculator.git       |
+| 3 |  Store_Sales_Review             |  Store_Sales_Review makes a review about the sales from the store             | https://github.com/Rucyaha/Store_Sales_Review.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
